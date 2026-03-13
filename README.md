@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raviranjan Kumar</h1>
 <h3 align="center">A passionate VLSI Engineer from India</h3>
+<img src="https://michaelparekh.substack.com/p/ai-it-all-begins-with-tsmc-in-taiwan" width="440px" align = "right" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan-vlsi&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan-vlsi" /> </p>
 
