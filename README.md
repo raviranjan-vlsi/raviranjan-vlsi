@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raviranjan Kumar</h1>
 <h3 align="center">A passionate VLSI Engineer from India</h3>
 <img src="https://substackcdn.com/image/fetch/$s_!8JGI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74479c28-4710-4ba4-8b48-056ed70b81f8_450x450.gif" width="400px" align = "right" alt="">
-[![trophy](https://github-profile-trophy.vercel.app/?username=raviranjan-vlsi)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan-vlsi&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan-vlsi" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviranjan-vlsi" alt="raviranjan-vlsi" /></a> </p>
+
 
 - 🔭 I’m currently working on **Implementation of AHB Master - Slave and verification using system Verilog and UVM**
 
